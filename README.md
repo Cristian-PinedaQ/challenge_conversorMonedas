@@ -24,9 +24,10 @@ Creo una aplicacion para consultar de un menu preestablecido, un grupo de moneda
 -  **Conditinal if Else**
 -  **Encapsulacion**
 -  **Manejo datos Json**
-- **HttpClient:**
-- **HttpRequest:**
-- **HttpResponse**
+- **Class Scaner:**
+- **Class HttpClient:**
+- **Class HttpRequest:**
+- **Interfaz HttpResponse**
 -  **Try - Cash**
 
 
